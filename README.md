@@ -8,7 +8,7 @@ This is the official respository for the episode #6 of the [Mix and Jam Youtube 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will get you a copy of the project and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
